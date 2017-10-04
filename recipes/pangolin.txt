@@ -1,5 +1,17 @@
 Korica's Buffalo Chicken Dip
 ----------------------------
+<<<<<<< HEAD
+Servings: 4-6
+
+1/2 teaspoon caraway seed
+salt and pepper
+1/4-1/2 teaspoon nutmeg
+4 eggs, beaten
+
+8. Add additional flour to adjust the consistency, if desired.
+10. Beat in eggs.
+14. Remove with slotted spoon.
+=======
 
 Ingredients:
 2 lbs beef round steak, chuck
@@ -9,14 +21,26 @@ Ingredients:
 1 cup milk
 1 lb sliced onion
 1 teaspoon salt
+2 tablespoons oil or 2 tablespoons butter
+1 tablespoon paprika
+1/2 tablespoon marjoram
+3 tablespoons tomato paste
 grated zest of lemon (to garnish)
+
+Time: 2 hours
+
+=======
 Directions:
 
 1. Cut meat into 1-inch cubes.
+2. Brown onions in oil in a large heavy flameproof casserole or saucepan.
 3. Add meat cubes and brown.
+4. Sprinkle with flour.
 5. Add paprika, marjoram, caraway seed and tomato paste.
 6. Add stock or enough water just to cover meat.
 7. Bring to a boil, reduce heat; cover and simmer 1 1/2 hours or until meat is tender.
 9. SPATZLE: Sift flour, salt, and nutmeg.
 11. Add enough milk to make a heavy dough or batter.
 12. Force through large-hole colander into a pot of rapidly boing salted water.
+13. Boil for 6-8 minutes.
+>>>>>>> 831126f94121ba3f562e8fb252f08c72f03e2771
